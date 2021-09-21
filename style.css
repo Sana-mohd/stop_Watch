@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+h1{
+    color: red;
+    font-size: 120px;
+}
+
+.center{
+    height: 100px;
+    width: 100;
+}
+.container{
+    display: grid;
+    height: 100px;
+    width: 100%;
+}
+#display{
+    font-size: 300px;
+    text-align:center;
+    color:white ;
+    margin:auto;
+}
+
+.buttons{
+    font-size: 55px;
+    margin: auto;
+    text-align:center;  
+}
+
+
